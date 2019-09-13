@@ -1,0 +1,40 @@
+Player Name :Tanzim
+Played Date:Sat Nov 03 19:59:16 2018
+Score:2
+___________________________________________________
+Player Name :@
+Played Date:Sat Nov 03 20:01:43 2018
+Score:0
+___________________________________________________
+Player Name :Tanzim
+Played Date:Sat Nov 03 20:23:07 2018
+Score:15
+___________________________________________________
+Player Name :@
+Played Date:Sun Nov 04 00:26:30 2018
+Score:5
+___________________________________________________
+Player Name :@
+Played Date:Sun Nov 04 15:21:39 2018
+Score:1
+___________________________________________________
+Player Name :Tanzim
+Played Date:Sun Nov 04 15:26:06 2018
+Score:10
+___________________________________________________
+Player Name :@
+Played Date:Sun Nov 04 15:29:11 2018
+Score:3
+___________________________________________________
+Player Name :Imran
+Played Date:Mon Nov 05 10:05:03 2018
+Score:14
+___________________________________________________
+Player Name :Tanzim
+Played Date:Thu May 30 12:05:20 2019
+Score:27
+___________________________________________________
+Player Name :Ranzim 
+Played Date:Thu May 30 14:51:48 2019
+Score:27
+___________________________________________________
